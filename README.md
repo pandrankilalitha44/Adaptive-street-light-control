@@ -108,7 +108,7 @@ The LPC2148 is the central controller. The LDR signal passes through the ADC, th
 ### 🖼️ System Block Diagram
 
 <p align="center">
-  <img src="Street_Light_Control\images\Adaptive_Streetlight_Control_Block_Daigram.png"
+  <img src="images\Adaptive_Streetlight_Control_Block_Daigram.png"
        alt="Adaptive Street Light Control System Block Diagram"
        width="100%">
 </p>
@@ -597,7 +597,7 @@ Add real photos and screenshots from your working hardware to the folders below.
 ### 🚀 System Initialization
 
 <p align="center">
-  <img src=Hardware\Hardware_images\system_Initialization.jpg" alt="System Initialization" width="75%">
+  <img src="Hardware\Hardware_images\system_Initialization.jpg" alt="System Initialization" width="75%">
 </p>
 <p align="center"><em>LCD output during system startup.</em></p>
 
