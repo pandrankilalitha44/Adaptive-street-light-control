@@ -733,9 +733,9 @@ The following are possible improvements and are **not** claimed as implemented:
 
 ## 👨‍💻 Author
 
-**Name:** `<Lalitha>`
-**E-Mail:** `<pandranki.lalitha44@gmail.com>`
-**GitHub:** `<https://github.com/pandrankilalitha44>`
+**Name:** Lalitha
+**E-Mail:** pandranki.lalitha44@gmail.com
+**GitHub:** https://github.com/pandrankilalitha44
 
 **Adaptive Street Light Control Using Time and Environmental Illumination**
 
