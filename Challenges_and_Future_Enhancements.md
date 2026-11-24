@@ -124,12 +124,6 @@ flowchart TD
 | **Solution** | Read ADC values in bright and dark conditions, choose a threshold between them, and set the comparison direction to match the divider circuit. |
 | **Verification** | LEDs turn ON in darkness and OFF in light when the schedule is active. |
 
-| Condition | ADC Value Observed |
-|---|---|
-| Bright light | `<fill in>` |
-| Dim light | `<fill in>` |
-| Dark (covered) | `<fill in>` |
-| Chosen threshold | `<fill in>` |
 
 ---
 
@@ -150,12 +144,12 @@ flowchart TD
 |---:|---|---|---|
 | 1 | RTC + Interrupt | RTC affected after adding interrupt code | `<Resolved / In progress>` |
 | 2 | Interrupt | Keeping the ISR short | ✅ Design handled |
-| 3 | Keypad | Scanning and debounce | `<Verified?>` |
-| 4 | Keypad / Menu | Multi-digit input | `<Verified?>` |
-| 5 | Menu | Timeout return to display | `<Verified?>` |
-| 6 | Scheduling | Interval crossing midnight | `<Verified?>` |
-| 7 | LDR / ADC | Threshold and comparison direction | `<Verified?>` |
-| 8 | Integration | Schedule + LDR combined logic | `<Verified?>` |
+| 3 | Keypad | Scanning and debounce | `<Verified>` |
+| 4 | Keypad / Menu | Multi-digit input | `<Verified>` |
+| 5 | Menu | Timeout return to display | `<Verified>` |
+| 6 | Scheduling | Interval crossing midnight | `<Verified>` |
+| 7 | LDR / ADC | Threshold and comparison direction | `<Verified>` |
+| 8 | Integration | Schedule + LDR combined logic | `<Verified>` |
 
 ---
 
